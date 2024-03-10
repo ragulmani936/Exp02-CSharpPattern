@@ -51,7 +51,7 @@ public class Pattern
 ```
 
 ## Output:
-![C#exp2out](https://github.com/Kousalya22008930/Exp02-CSharpPattern/assets/119389108/43c371f0-66f9-41d0-b0e0-eab725d85a11)
+![C#exp2out](https://github.com/ragulmani936/Exp02-CSharpPattern/blob/main/img1.png)
 
 
 ## Result:
